@@ -10,13 +10,9 @@ This project explores spam email detection using natural language processing and
 
 The models are evaluated using standard classification metrics, including accuracy, precision, recall, and F1-score, to compare their performance in distinguishing between spam and legitimate (ham) emails.
 
-## Dataset and Preprocessing
+## Dataset
 
-The project uses the Enron Spam Dataset, which contains 33,716 email records, with 17,171 spam emails and 16,545 ham emails. It contains three main fields:
-
-* **Subject**
-* **Message**
-* **Spam/Ham**
+The project uses the Enron Spam Dataset, which contains 33,716 email records, with 17,171 spam emails and 16,545 ham emails.
 
 
 
