@@ -46,7 +46,7 @@ A supplementary experiment fine-tuned the pretrained GloVe embeddings instead of
 
 ## External Evaluation
 
-The best-performing required model, TF-IDF + FFN, was also evaluated on the **UCI SMS Spam Collection** containing 5,572 messages.
+The best-performing model, TF-IDF + FFN, was also evaluated on the **UCI SMS Spam Collection** containing 5,572 messages.
 
 Although the model achieved **86.59% raw accuracy**, it predicted every message as ham, resulting in **0% spam precision and 0% spam recall**. This demonstrates that the high performance on the Enron-Spam dataset did not transfer to the different SMS domain.
 
